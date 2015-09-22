@@ -1,0 +1,82 @@
+% This work is licensed under the Creative Commons
+% Attribution-NonCommercial-ShareAlike License. To view a copy of this license,
+% visit http://creativecommons.org/licenses/by-nc-sa/1.0/ or send a letter to
+% Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+% This file is adapted from https://github.com/punchagan/resume/
+
+\ProvidesPackage{mycv}
+
+ %A Few Useful Packages
+\usepackage{url}
+\usepackage{titlesec} %custom section
+\usepackage{paralist}
+\usepackage{enumitem} %custom lists
+\usepackage{calc}
+\usepackage[none]{hyphenat} 
+\usepackage{lmodern}
+
+\pagestyle{empty} % plain
+
+% Header spacing
+\voffset -0.5in
+\topmargin 10pt
+\headheight 0pt
+\headsep 0pt
+
+% Footer spacing
+\footskip 0pt 
+\textheight 9.5in
+
+% Sideways
+\textwidth 6.0in
+
+%% Title
+\renewcommand*{\maketitle}{%
+  {
+
+     \raggedleft{\Huge Sam Asghari }\\
+     \raggedleft{\Large asghari.sam@gmail.com}\\
+     \raggedleft{\Large asghari.me :: 404.431.0851}\\
+     \raggedleft{\Medium 928 President St. \#C2 Brooklyn, NY 11215}
+
+  }
+}
+
+%% Section Headings, etc.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\titleformat{\section} %command
+            {\Large\scshape\raggedright} %format
+            {} %label
+            {0em} %sep
+            {} %before
+            [\titlerule]
+\titlespacing{\section}{0pt}{10pt}{5pt}
+
+\titleformat{\subsection} %command
+            [leftmargin] %shape
+            {\small\scshape\raggedleft} %format
+            {} %label
+            {0pt} %sep
+            {} %before
+            [] %after
+\titlespacing{\subsection}{90pt}{5pt}{15pt}
+
+\titleformat{\subsubsection} %command
+            [leftmargin] %shape
+            {\tiny\scshape\raggedleft} %format
+            {} %label
+            {0pt} %sep
+            {} %before
+            [] %after
+\titlespacing{\subsubsection}{60pt}{0pt}{15pt}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Paragraph indent
+\setlength{\parindent}{0cm}
+
+% Lists
+\let\itemize\compactitem
+\let\description\compactdesc
+\let\enumerate\compactenum  
+
+\end

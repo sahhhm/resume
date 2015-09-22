@@ -1,0 +1,79 @@
+#+OPTIONS: toc:nil H:10 tex:t
+#+LaTeX_HEADER: \usepackage{mycv}
+
+* Education
+** 05/2011
+   *Georgia Institute of Technology*, Atlanta, GA
+
+    B.S. in Computer Science (GPA: 3.66/4)
+    * College of Computing Mentor
+
+* Work Experience
+** 08/2011 - /Present/
+   *Applications Developer*, JPMorgan Chase, New York, NY
+   
+   Associate (02/2014 - Present)
+
+   Corporate Development Program (08/2011 - 02/2014)
+
+   * Key softweare developer engaged with all facets of the software development
+     lifecycle for JPMorgan's critial Private Bank back office accounting platform
+
+   * Quickly established domain expertise with securities creation, pricing, and
+     coding, internal accounting, reversal and reposting of cash and security
+     transactions, sweep and loan products, and proprietary accounting architecture
+
+   * Lead technology solutions for urgent production issues including the intraday
+     reversal of 67,000 transactions and recovery of over 800 accidentally
+     deleted securities 
+
+   * Continually bridge communication gaps between business and technology
+     partners to ensure on-time delivery by presenting technical analysis
+     and results in a format actionable by non-technical decision
+     makers
+
+   * Independently develop and document generalized tools to allow
+     generalized system diff's and rapid querying/reporting of the entire
+     back office accounting system improving ad-hoc reporting accuracy and
+     turnaround time by over 90%
+
+   * Identify and implement technology solutions to improve the
+     bottom line including saving the company 6 full time employees and saving
+     $1.3MM in vendor costs
+
+   * Develop and execute comprehensive test plans with full transparency to business users
+
+   * Lead efforts with an offshore team to deliver all requirements on time
+
+** 08/2008 - 05/2011
+   *Head Teaching Assistant*, Georgia Institute of Technology,
+   Atlanta, GA
+
+   Undergraduate Teaching Assistant
+
+   * Led a team of thirteen teaching assistants, ensuring
+     all deadlines and duties were met
+   * Created homework and tests and led review sessions for
+     students prior to exams
+
+** 08/2010 - 12/2010
+   *Undergraduate Research Assistant*, Embedded Pervasive Lab, Atlanta
+   GA
+   * Designed and implemented a reliable video dashboard
+     for a pervasive camera network
+
+** 05/2010 - 08/2010 
+   *REMS Intern*, Schlumberger, Sugar Land, TX
+
+   * Fixed, updated, and fully enhanced an internal project management
+     application (consisting of a source repository and a build tool) for
+     Embedded Software Engineers
+
+* Computer Skills
+** JPMorgan 
+   COBOL, DB2, Websphere MQ, JCL, CICS, EZTreieve
+** External
+   Python (+Flask), Javascript (+jQuery, d3, nodeJS), Java (+Android), HTML/CSS
+
+    
+    
