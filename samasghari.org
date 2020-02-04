@@ -9,15 +9,37 @@
     * College of Computing Mentor
 
 * Work Experience
-** 08/2011 - /Present/
+** 04/2016 - /Present/
+   *Software Engineer*, The Blackstone Group, New York, NY
+
+   * Full stack developer on strategic fund accounting platform
+     supporting all Blackstone business units. Involved from business design
+     reviews through technical design and implementation solutions ending with
+     heavy iteration with QA teams and end users to ensure all features are
+     delivered with excellence
+
+   * Technical subject matter expert involved with all facets the system calculated management fees for funds on the
+     accounting platform (average of multi-million dollar management fee calculated per quarter,
+     per fund) while also responsible for mentoring more junior developers working on this subsystem
+
+   * Took ownership and iterated directly with end users to identify missing requirements in order to
+     get a stalled project released in a usable and
+     stable manner
+
+   * Participate in a 24/7 on-call production support rotation as a first line of
+     defense for application and infrastructure issues, support other
+     teams with their production deployments, and develop tools/processes to
+     improve the overall hygiene and stability of all environments
+
+   * Responsible for running weekly developer "get-together" meeting,
+     curating applicable content and ensuring proper
+     community wide communications when necessary
+
+** 08/2011 - 04/2016
    *Applications Developer*, JPMorgan Chase, New York, NY
-   
-   Associate (02/2014 - Present)
 
-   Corporate Development Program (08/2011 - 02/2014)
-
-   * Key softweare developer engaged with all facets of the software development
-     lifecycle for JPMorgan's critial Private Bank back office accounting platform
+   * Key software developer engaged with all facets of the software development
+     lifecycle for JPMorgan's critical Private Bank back office accounting platform
 
    * Quickly established domain expertise with securities creation, pricing, and
      coding, internal accounting, reversal and reposting of cash and security
@@ -27,24 +49,6 @@
      reversal of 67,000 transactions and recovery of over 800 accidentally
      deleted securities 
 
-   * Continually bridge communication gaps between business and technology
-     partners to ensure on-time delivery by presenting technical analysis
-     and results in a format actionable by non-technical decision
-     makers
-
-   * Independently develop and document generalized tools to allow
-     generalized system diff's and rapid querying/reporting of the entire
-     back office accounting system improving ad-hoc reporting accuracy and
-     turnaround time by over 90%
-
-   * Identify and implement technology solutions to improve the
-     bottom line including saving the company 6 full time employees and saving
-     $1.3MM in vendor costs
-
-   * Develop and execute comprehensive test plans with full transparency to business users
-
-   * Lead efforts with an offshore team to deliver all requirements on time
-
 ** 08/2008 - 05/2011
    *Head Teaching Assistant*, Georgia Institute of Technology,
    Atlanta, GA
@@ -53,27 +57,11 @@
 
    * Led a team of thirteen teaching assistants, ensuring
      all deadlines and duties were met
-   * Created homework and tests and led review sessions for
-     students prior to exams
 
-** 08/2010 - 12/2010
-   *Undergraduate Research Assistant*, Embedded Pervasive Lab, Atlanta
-   GA
-   * Designed and implemented a reliable video dashboard
-     for a pervasive camera network
+* Skills
+   C#, Python (+Flask), Javascript (+jQuery, knockoutjs), SQL Server, HTML/CSS,
+   RabbitMQ, SignalR, gRPC, MOQ, Teamcity, Datadog, PagerDuty
 
-** 05/2010 - 08/2010 
-   *REMS Intern*, Schlumberger, Sugar Land, TX
-
-   * Fixed, updated, and fully enhanced an internal project management
-     application (consisting of a source repository and a build tool) for
-     Embedded Software Engineers
-
-* Computer Skills
-** JPMorgan 
-   COBOL, DB2, Websphere MQ, JCL, CICS, EZTreieve
-** External
-   Python (+Flask), Javascript (+jQuery, d3, nodeJS), Java (+Android), HTML/CSS
 
     
     
